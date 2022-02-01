@@ -1,0 +1,1 @@
+from . import seismo_safe_model
